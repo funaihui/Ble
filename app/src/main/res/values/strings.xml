@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ble</string>
+    <string name="ble_not_supported">sorry,你的设备不支持BLE</string>
+
+</resources>
